@@ -1,4 +1,4 @@
-const colors =["green","red","white","teal","yellow","whitesmoke","orange","violet","brown","blue","thistle","yellowgreen","darkblue","cyan","darkcyan","darkgoldenrod","magenta","darkmagenta","darkolivegreen","lavender","indigo","darkslategray","maroon","aqua","indianred","salmon","crimson","pink","lightpink","cadetblue","cornsilk","wheat","tan","sandybrown","sienna","azure","mintcream","aliceblue","honeydew","royalblue","navy"];
+const colors =["green","red","white","teal","yellow","whitesmoke","orange","violet","brown","blue","thistle","yellowgreen","darkblue","cyan","darkcyan","darkgoldenrod","magenta","darkmagenta","darkolivegreen","lavender","indigo","darkslategray","maroon","aqua","indianred","salmon","crimson","pink","lightpink","cadetblue","cornsilk","wheat","tan","sandybrown","sienna","azure","mintcream","aliceblue","honeydew","royalblue","navy","silver"];
 
 const btn = document.getElementById("btn");
 const color = document.getElementById("color");
